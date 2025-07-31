@@ -1,0 +1,8 @@
+Mark=int(input("Enter a grade"))
+if Mark>90:
+    print('A')
+    print("Excellent")
+else:
+    print('B')
+
+
