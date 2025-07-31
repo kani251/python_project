@@ -1,0 +1,13 @@
+G of th num.txt
+                           GREATEST OF THREE NUMBER
+Aim:
+    To find biggest of  3 numbers using c program
+
+Algorithm:
+           step1: start the Execuition
+           step:2 Read the vaiue a,b,c
+           step:3 if (a>b) and (a>b) then
+           step:4 print a is the greatest value 
+           step:5 Else if (b s a ) and (b>c) then
+           step:6 print b is the greatest value
+            
