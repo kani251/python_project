@@ -1,0 +1,12 @@
+Day1 Algorithm.txt
+                                                    odd or even
+Aim:
+   To find a given value is odd or even using C program
+
+Algorithm:
+             step:1 start the program
+             step:2 read the value a
+             step3: if a%2==0, the
+             step:4 print the vaiue is even
+             step:5 otherwise the vaiue is odd
+             step:6 stop the Execution
