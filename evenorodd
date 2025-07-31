@@ -1,0 +1,10 @@
+Day1 Algorithm.txt
+          EVEN OR ODD
+          
+Alogrithm:
+step1:strat the program
+step2:read the value
+step3:ifa%==0,then
+step4:print the value is even
+step5:otherwise the value is add
+step6:stop the execution
